@@ -1,5 +1,7 @@
-[Link to Lab Blog](https://blog.myremote.tech).
+# Work In Progress
+[Lab Blog](https://blog.myremote.tech).
 
+This page is a work in progress. And will eventually replace [Lab Blog](https://blog.myremote.tech). For updates, please check both this and **Lab Blog**.
 ---
 layout: default
 ---
