@@ -1,3 +1,5 @@
+[Link to Lab Blog](https://blog.myremote.tech).
+
 ---
 layout: default
 ---
