@@ -22,6 +22,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-pfSense-1679A7?&style=for-the-badge&logo=pfsense&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Unifi-1679A7?&style=for-the-badge&logo=ubiquiti&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nessus-00C4A7?style=for-the-badge&logo=tenable&logoColor=white" />
     <img src="https://img.shields.io/badge/-OpenVAS-3877B0?style=for-the-badge&logo=openvas&logoColor=white" />
     <img src="https://img.shields.io/badge/-NMAP-3877B0?style=for-the-badge&logo=nmap&logoColor=white" />
@@ -42,6 +44,15 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Sophos-2F67BC?style=for-the-badge&logo=sophos&logoColor=white" />
 
+</div>
+
+### Virtualization
+<div>
+    <img src="https://img.shields.io/badge/-VirtualBox-1679A7?&style=for-the-badge&logo=Virtualbox&logoColor=white" />    
+    <img src="https://img.shields.io/badge/-VMWare_Workstation-1679A7?&style=for-the-badge&logo=vmware&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Proxmox-1679A7?&style=for-the-badge&logo=proxmox&logoColor=white" />
+    <img src="https://img.shields.io/badge/-unRAID-1679A7?&style=for-the-badge&logo=unRAID&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Docker-1679A7?&style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 ### SIEM
