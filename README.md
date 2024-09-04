@@ -63,6 +63,30 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 </div>
 
+### Scripting 
+<div>
+    <img src="https://img.shields.io/badge/-Python-1679A7?&style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/-bash-1679A7?&style=for-the-badge&logo=bash&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Powershell-1679A7?&style=for-the-badge&logo=powershell&logoColor=white" />
+</div>
+
+### Remote Endpoint Management
+<div>
+    <img src="https://img.shields.io/badge/-SyncroMSP-1679A7?&style=for-the-badge&logo=SyncroMSP&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MeshCentral-1679A7?&style=for-the-badge&logo=meshcentral&logoColor=white" />
+    <img src="https://img.shields.io/badge/-ScreenConnect-1679A7?&style=for-the-badge&logo=screenconnect&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AnyDesk-1679A7?&style=for-the-badge&logo=anydesk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-RustDesk-1679A7?&style=for-the-badge&logo=rustdesk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TeamViewer-1679A7?&style=for-the-badge&logo=teamviewer&logoColor=white" />
+</div>
+
+### Cloud
+<div>
+    <img src="https://img.shields.io/badge/-M365-1679A7?&style=for-the-badge&logo=office&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure-1679A7?&style=for-the-badge&logo=azure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GCP-1679A7?&style=for-the-badge&logo=google&logoColor=white" />
+</div>
+    
 ### Penetration Testing
 <div>
     <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=Kali%20Linux&logoColor=white" />
