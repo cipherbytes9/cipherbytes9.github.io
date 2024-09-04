@@ -69,5 +69,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- <a href="">Coming Soon - Detection Lab</a>
+- Coming Soon - Detection Lab
 - Coming Soon - SOC Automation Project
