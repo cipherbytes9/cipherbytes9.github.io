@@ -36,7 +36,9 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <img src="https://img.shields.io/badge/-Windows%20Server-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Active%20Directory-003399?style=for-the-badge&logo=microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Windows%2010%2F11-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-
+    <img src="https://img.shields.io/badge/-Ubuntu-1679A7?&style=for-the-badge&logo=ubuntu&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MacOS-1679A7?&style=for-the-badge&logo=apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Android-1679A7?&style=for-the-badge&logo=android&logoColor=white" />
 </div>
 
 ### Endpoint
