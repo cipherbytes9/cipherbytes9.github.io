@@ -12,8 +12,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="https://meteor-salmon-e3c.notion.site/7c5452d9d4ad48ee81fe3ead43976121?v=fff9ddc7a6e0802ba586000c65a3591f">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://meteor-salmon-e3c.notion.site/7c5452d9d4ad48ee81fe3ead43976121?v=fff9ddc7a6e0802ba586000c65a3591f">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -70,5 +70,5 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://meteor-salmon-e3c.notion.site/7c5452d9d4ad48ee81fe3ead43976121?v=fff9ddc7a6e0802ba586000c65a3591f">Detection Lab</a>
 - SOC Automation Project
