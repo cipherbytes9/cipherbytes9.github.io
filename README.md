@@ -11,8 +11,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="">Coming Soon</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="">Coming Soon</a>|
+| SIEM Implementation and Log Analysis          | Coming Soon |
+| Network Traffic Monitoring and Attack Detection | Coming Soon |
 | Security Automation with Shuffle SOAR         | Coming Soon |
 | Incident Response Planning and Execution      | Coming Soon |
 | Case Management with TheHive                  | Coming Soon |
