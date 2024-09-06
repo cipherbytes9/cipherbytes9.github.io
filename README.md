@@ -102,9 +102,11 @@ My journey in computer science has led me to develop a passion for cybersecurity
     <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-Y3R3QOOU5D.png"><img src="https://img.shields.io/badge/-Cyber_Security_Learning_Path-000000?&style=for-the-badge&logo=tryhackme&logoColor=white" />
     <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-4WMR4XA3CB.png"><img src="https://img.shields.io/badge/-Security_Learning_Path-000000?&style=for-the-badge&logo=tryhackme&logoColor=white" />
     <img src="https://img.shields.io/badge/-CMNA-4D4D4D?&style=for-the-badge&logo=cisco&logoColor=white" />
-
 </div>
 
 ## Projects
 - Coming Soon - Detection Lab
 - Coming Soon - SOC Automation Project
+
+## Blog
+<a href="https://blog.myremote.tech"><img src="https://img.shields.io/badge/-Blog-000000?&style=for-the-badge&logo=notion&logoColor=white" />
